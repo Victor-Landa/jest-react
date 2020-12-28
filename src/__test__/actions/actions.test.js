@@ -1,4 +1,3 @@
-// Path: src/__test__/actions/actions.test.js
 import actions from '../../actions/';
 import ProductMock from '../../__mocks__/ProductMock';
 
